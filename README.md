@@ -94,6 +94,8 @@ Sample Output 3:
 ---
 
 ## Boyer-Myrvold
+### Explanation
+The Boyer–Myrvold algorithm is a linear-time $O(V + E)$ graph planarity testing and embedding algorithm that determines whether a graph can be drawn on a plane without its edges crossing. It operates by performing a Depth-First Search (DFS) to build a DFS tree and incrementally adding edges into a dynamic biconnected component framework. As edges are introduced, the algorithm selectively applies rotations and "flips" to embedded biconnected components like a mobile structure to align vertices onto the external face without crossing paths. By systematically managing these embeddings and immediately isolating a Kuratowski minor obstruction upon failure, it achieves optimal linear efficiency for planarity testing.
 
 ### Prerequisites
 - Compiler(VSCode or any other that runs Python)
