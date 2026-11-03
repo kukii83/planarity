@@ -91,3 +91,9 @@ Sample Output 3:
 ```
 
 ---
+
+Do your part guys
+
+---
+AI usage:
+https://share.gemini.google/hiFZ93u9SorJ
