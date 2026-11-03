@@ -10,7 +10,7 @@ Group 5 Members:
 
 ---
 
-In this project, we will use two algortihms, which is:
+In this project, we will use the two algorithms:
 
 - Hopcroft Tarjan
 - Boyer-Myrvold
@@ -178,5 +178,7 @@ Sample Output 3:
 
 ---
 AI usage:
+
 https://share.gemini.google/hiFZ93u9SorJ
+
 https://share.gemini.google/d0r8Skl4Y8L0
